@@ -48,7 +48,7 @@ six==1.15.0
     # via
     #   patsy
     #   python-dateutil
-starlette==0.13.6
+starlette==0.25.0
     # via fastapi
 statsd==3.3.0
     # via ep-stats (setup.py)
